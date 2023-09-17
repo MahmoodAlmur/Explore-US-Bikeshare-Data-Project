@@ -1,5 +1,5 @@
 # Explore-US-Bikeshare-Data
-### This Project was made after copleting Introduction to Python course at Udacity
+### This Project was made after copleting *`Introduction to Python`* course at Udacity
   
 + This project explains some numbers for a bicycle rental company in three American cities :
 >1. Chicago
