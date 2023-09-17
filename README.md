@@ -17,4 +17,4 @@
 >2. new_york_city.csv
 >3. washington.csv
 
-+ Click on `THE_PROJECT.py` file to see the code
++ Click on *`THE_PROJECT.py`* file to see the code
