@@ -1,5 +1,5 @@
 # Explore-US-Bikeshare-Data
-### This Project was mad after copleting Introduction to Python course at Udacity
+### This Project was made after copleting Introduction to Python course at Udacity
   
 + This project explains some numbers for a bicycle rental company in three American cities :
 >1. Chicago
@@ -12,9 +12,9 @@
 >3. time
 >4. calendar
 
-+ There are 3 Exel.csv files used in this project :
-  >1. chicago.csv
-  >2. new_york_city.csv
-  >3. washington.csv
++ There are 3 exel.csv files used in this project :
+>1. chicago.csv
+>2. new_york_city.csv
+>3. washington.csv
 
-+ Click on THE_PROJECT.py file to see the code
++ Click on `THE_PROJECT.py` file to see the code
